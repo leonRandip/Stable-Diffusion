@@ -55,6 +55,9 @@ Step 6: Start Generating AI Images
 
 Copy the URL displayed in the terminal and paste it into the browser and enter your first text prompt. Voila! Stable diffusion UI is installed on your Mac, and you can start generating AI images.
 
+-OUTPUT-
+
+![Uploading Screenshot 2024-04-15 at 11.08.29 AM.png…]()
 
 
 --Have a nice day!--
