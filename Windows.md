@@ -1,3 +1,7 @@
+---
+title: Windows
+---
+
 --Stable Diffusion in WindowsOS--
 
 Requirements:
