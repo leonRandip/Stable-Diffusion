@@ -51,13 +51,17 @@ In the terminal, type `cd stable-diffusion-webui` and then execute `./webui.sh`.
 
 Step 6: Start Generating AI Images
 
-<img width="571" alt="Output.jpg" src="https://github.com/leonRandip/Stable-Diffusion/assets/123591141/44f38be2-9185-4d3f-b0d0-c5255f332474">
+<img width="571" alt="terminal.jpg" src="https://github.com/leonRandip/Stable-Diffusion/assets/123591141/44f38be2-9185-4d3f-b0d0-c5255f332474">
 
 Copy the URL displayed in the terminal and paste it into the browser and enter your first text prompt. Voila! Stable diffusion UI is installed on your Mac, and you can start generating AI images.
 
 -OUTPUT-
 
-![Uploading Screenshot 2024-04-15 at 11.08.29 AM.png…]()
+<img width="1510" alt="Output.jpg" src="https://github.com/leonRandip/Stable-Diffusion/assets/123591141/79bea794-c2a4-41b5-beb0-6031fed41bcd">
+
+Generated Image:
+
+![](https://github.com/leonRandip/Stable-Diffusion/assets/123591141/14c9f303-edd3-4b0a-a4df-199879b8fe29)
 
 
 --Have a nice day!--
