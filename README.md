@@ -1,7 +1,3 @@
-### tab Social-Media
-
-tab content Social-Media
-
 [WINDOWS](Windows.md) <== CLICK HERE!
 
 
