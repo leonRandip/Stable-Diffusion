@@ -1,4 +1,4 @@
-[Windows](Windows.md) <== CLICK HERE!
+[WINDOWS](Windows.md) <== CLICK HERE!
 
 
 # Stable-Diffusion
