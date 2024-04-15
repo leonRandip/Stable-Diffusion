@@ -1,3 +1,4 @@
+- [Windows](Windows.md)
 # Stable-Diffusion
 Install Stable Diffusion on Mac — Beginners Guide
 
